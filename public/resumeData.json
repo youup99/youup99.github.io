@@ -46,8 +46,8 @@
     "work": [
       {
         "company": "Modern Treasury",
-        "title": "Incoming Software Engineer",
-        "years": "August 2022",
+        "title": "Software Engineer",
+        "years": "August 2022 - Current",
         "description": "Payment Interfaces",
         "image": "MT.jpg"
       },
@@ -93,7 +93,7 @@
         "level": "90%"
       },
       {
-        "name": "Vue.js",
+        "name": "Ruby on Rails",
         "level": "80%"
       },
       {
