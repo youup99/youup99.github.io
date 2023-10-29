@@ -5,8 +5,14 @@ class Resume extends Component {
     if (this.props.data) {
       var skillmessage = this.props.data.skillmessage;
       var education = this.props.data.education.map(function (education) {
+        var educationLogo = "images/education/" + education.image;
         return (
           <div key={education.school}>
+            <img
+              className="logo"
+              src={educationLogo}
+              alt={education.school}
+            />
             <h3>{education.school}</h3>
             <p className="info">
               {education.degree} <span>&bull;</span>
@@ -20,7 +26,11 @@ class Resume extends Component {
         var companyLogo = "images/work/" + work.image;
         return (
           <div key={work.company}>
-            <img className="company-logo" src={companyLogo} alt={work.company} />
+            <img
+              className="logo"
+              src={companyLogo}
+              alt={work.company}
+            />
             <h3>{work.company}</h3>
             <p className="info">
               {work.title}
