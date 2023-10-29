@@ -7,12 +7,12 @@
     "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
     "email": "youup99@gmail.com",
-    "phone": "403-404-5528",
+    "phone": "",
     "address": {
-      "street": "105 Royal Crest Terrace",
-      "city": "Calgary",
-      "state": "Alberta",
-      "zip": "T3G 4M2"
+      "street": "252 W 72nd Street",
+      "city": "New York",
+      "state": "New York",
+      "zip": "10023"
     },
     "resumedownload": "Youup_Kim_Resume.pdf",
     "social": [
@@ -48,7 +48,7 @@
         "company": "Modern Treasury",
         "title": "Software Engineer",
         "years": "August 2022 - Current",
-        "description": "Payment Interfaces",
+        "description": "Payment Interfaces/Payment Rails",
         "image": "MT.jpg"
       },
       {
